@@ -1,2 +1,2 @@
 # Ecommerce-website
-![preview img](/preview3.png)
+![preview3 img](/preview3.png)
